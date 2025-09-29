@@ -1,0 +1,15 @@
+Identified Protocols:
+
+1. TCP – Provides reliable data delivery for applications across the network.
+2. ARP – Resolves IP addresses to MAC addresses for device communication in a local network.
+3. ICMPv6 – Facilitates error messages and network diagnostics in IPv6 networks.
+4. DNS – Converts domain names to IP addresses for network routing.
+5. TLSv1.2 – Encrypts network communication to ensure secure data exchange.
+6. QUIC - QUIC is a fast and secure transport protocol built on UDP that reduces connection latency. 
+
+Observed Protocols: 
+
+1. TCP – Provides reliable, ordered communication between networked devices.
+2. ARP – Resolves IP addresses to physical MAC addresses for device identification.
+3. ICMPv6 – Handles diagnostic messages and error reporting within IPv6 networks.
+4. QUIC - Supports multiplexed encrypted streams, mainly used in HTTP/3 for improved web performance.
