@@ -1,9 +1,11 @@
-Cyber Security Internship Task 5 – Wireshark Packet Capture.
+# Cyber Security Internship Task 5 – Wireshark Packet Capture :
 
 
-Task Overview : This submission is for Task 5 of my Elevate Labs Cyber Security Internship, which involves capturing and analyzing network traffic using Wireshark.
+## Task Overview : 
 
-i] Steps Performed :
+This submission is for Task 5 of my Elevate Labs Cyber Security Internship, which involves capturing and analyzing network traffic using Wireshark.
+
+## i] Steps Performed :
 
 - Installed Wireshark on Windows and started a live capture on the Wi-Fi interface.
 
@@ -13,7 +15,7 @@ i] Steps Performed :
 
 - Saved the capture file as .pcapng for analysis and submission.
 
-ii] Key Protocols Identified :
+## ii] Key Protocols Identified :
 
 - TCP: Provides reliable, ordered data transmission between network devices.
 
@@ -23,13 +25,13 @@ ii] Key Protocols Identified :
 
 - DNS: Translates domain names to IP addresses for routing internet traffic.
 
-iii] Summary of Findings :
+## iii] Summary of Findings :
 
 - Observed packet exchanges for different protocols including TCP handshakes, ARP requests, DNS queries, and encrypted traffic using TLS.
 
 - Each protocol plays a critical role in supporting network communication and securing data.
 
-iv] Files Included :
+## iv] Files Included :
 
 - network_capture.pcapng: Wireshark packet capture file.
 
